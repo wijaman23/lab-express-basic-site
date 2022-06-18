@@ -1,8 +1,10 @@
-ul{
+li{
     list-style: none;
+    display:block;
+    padding:10px 10px;
 }
 h1{
-    margin-left: 20px;
+    margin-left: 40px;
 }
 a{
     font-size: 25px;
